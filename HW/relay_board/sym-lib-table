@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Mounting_hw")(type "KiCad")(uri "${KIPRJMOD}/Mounting_hw.kicad_sym")(options "")(descr ""))
+)
